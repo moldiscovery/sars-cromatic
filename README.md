@@ -1,6 +1,6 @@
 # This directory contains the folowing files #
 
-1. ANNOTATION.csv 
+1. **ANNOTATION.csv** 
   - This file contains, for each cavity in the full collection, all annotations:
      - cavity_inchi: a uniq identifier for the protein cavity
      - cavity_filename: the corresponding cavity file located in /files/ directory
@@ -20,12 +20,12 @@
      - int.domain: if cavity is in a protein-protein interaction region, the protein domain of the interactor is reported
      - int.organism : if cavity is in a protein-protein interaction region, the organism of the interactor is reported
 
-2. CROMATIC-full_matrix.tsv & CROMATIC-similar_pairs.csv
+2. **CROMATIC-full_matrix.tsv & CROMATIC-similar_pairs.csv**
  - These two files contain the similarity values among all the cavities in the non-redundant collection. 
    - CROMATIC-full_matrix.tsv: it contains square matrix resulting from 'all against all' comparison
    - CROMATIC-similar_pairs.csv: it reports only similar cavity pairs (score >= 0.8)
 
-3. files
+3. **files**
  - This directory contains .pdb files of proteins, cavities and ligands. For example: /6lu71/ contains:
     - 6lu71_1_A.pdb: protein file, model 1       
     - 6lu71_2_A.pdb: protein file, model 2  
@@ -39,8 +39,7 @@
     - PocRes_*_6lu71_1_A.pdb: Cavity residues
     - redundant: directory containing one of the duplicates cavity (not considered in the followinhg steps)
 
-4. IMPLEMENTATION.txt
+4. **IMPLEMENTATION.txt**
 - It contains command lines used for implementing the cavities collection and the cross-relationship map.The BioGPS software, containing flap* executables is available from https://www.moldiscovery.com/and trial licenses are available to both commercial and academic users.
 
-5. README.md
-This file
+5. **README.md**, This file
