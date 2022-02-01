@@ -1,4 +1,4 @@
-# This directory contains the following files #
+# Sars-CROMATIC (Cross-relationship Map of Cavities from Coronaviruses) Repository Description #
 
 1. **ANNOTATION.csv** 
   - This file contains, for each cavity in the full collection, all annotations:
