@@ -1,4 +1,4 @@
-# This directory contains the folowing files #
+# This directory contains the following files #
 
 1. **ANNOTATION.csv** 
   - This file contains, for each cavity in the full collection, all annotations:
