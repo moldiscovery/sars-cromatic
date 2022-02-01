@@ -40,6 +40,6 @@
     - redundant: directory containing one of the duplicates cavity (not considered in the followinhg steps)
 
 4. **IMPLEMENTATION.txt**
-- It contains command lines used for implementing the cavities collection and the cross-relationship map.The BioGPS software, containing flap* executables is available from https://www.moldiscovery.com/and trial licenses are available to both commercial and academic users.
+- It contains command lines used for implementing the cavities collection and the cross-relationship map.The BioGPS software, containing flap* executables is available from https://www.moldiscovery.com/ and trial licenses are available to both commercial and academic users.
 
 5. **README.md**, This file
