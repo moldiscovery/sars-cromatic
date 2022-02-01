@@ -1,0 +1,9 @@
+MODEL        1
+HETATM    1 HG    HG A 601      22.094  -4.765  18.068  1.00 35.23          Hg  
+TER       2       HG A 601 
+ENDMDL
+MODEL        2
+HETATM    1 HG    HG A 601     -35.919  -4.765  33.563  1.00 35.23          Hg  
+TER       2       HG A 601 
+ENDMDL
+END   

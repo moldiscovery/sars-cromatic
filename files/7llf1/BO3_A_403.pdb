@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  B   BO3 A 403       7.211   9.212   6.548  1.00 61.72           B  
+HETATM    2  O1  BO3 A 403       6.278  10.133   6.188  1.00 64.75           O  
+HETATM    3  O2  BO3 A 403       8.527   9.548   6.526  1.00 59.36           O  
+HETATM    4  O3  BO3 A 403       6.834   7.962   6.931  1.00 62.47           O  
+TER       5      BO3 A 403 
+ENDMDL
+END   

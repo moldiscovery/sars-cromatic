@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO A 705      -0.456  49.755 -18.294  1.00 38.67           C  
+HETATM    2  O1  EDO A 705      -1.733  49.247 -18.696  1.00 39.23           O  
+HETATM    3  C2  EDO A 705      -0.509  50.195 -16.832  1.00 36.54           C  
+HETATM    4  O2  EDO A 705      -1.659  51.024 -16.603  1.00 31.75           O  
+TER       5      EDO A 705 
+ENDMDL
+END   

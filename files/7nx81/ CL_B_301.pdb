@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 CL    CL B 301      25.529 -35.131 -54.248  1.00 54.29          Cl  
+TER       2       CL B 301 
+ENDMDL
+END   

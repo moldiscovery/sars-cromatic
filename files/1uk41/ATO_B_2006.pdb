@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1  C1  ATO B2006      54.925 -24.335  38.758  1.00 76.36           C  
+TER       2      ATO B2006 
+ENDMDL
+END   

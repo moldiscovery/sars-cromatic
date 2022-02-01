@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  S   DMS A 202     -44.429 -35.469  -2.051  1.00 17.45           S  
+HETATM    2  O   DMS A 202     -44.438 -33.981  -2.258  1.00 16.89           O  
+HETATM    3  C1  DMS A 202     -43.659 -36.126  -3.502  1.00 18.34           C  
+HETATM    4  C2  DMS A 202     -46.108 -35.976  -2.503  1.00 17.42           C  
+TER       5      DMS A 202 
+ENDMDL
+END   

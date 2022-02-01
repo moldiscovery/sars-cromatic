@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  S   DMS A 410       0.520 -16.521  17.484  1.00191.21           S  
+HETATM    2  O   DMS A 410       0.616 -17.972  17.678  1.00191.19           O  
+HETATM    3  C1  DMS A 410       2.138 -16.035  16.957  1.00191.22           C  
+HETATM    4  C2  DMS A 410       0.569 -15.860  19.120  1.00191.10           C  
+TER       5      DMS A 410 
+ENDMDL
+END   

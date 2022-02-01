@@ -1,0 +1,19 @@
+MODEL        1
+HETATM    1  CAA NMI A 201     -43.674 -25.513  -0.429  0.73 14.96           C  
+HETATM    2  NAN NMI A 201     -44.409 -26.663  -0.019  0.73 14.57           N  
+HETATM    3  CAH NMI A 201     -43.728 -27.463   0.704  0.73 15.55           C  
+HETATM    4  CAM NMI A 201     -45.660 -27.144  -0.186  0.73 14.60           C  
+HETATM    5  CAG NMI A 201     -46.782 -26.700  -0.940  0.73 14.55           C  
+HETATM    6  CAE NMI A 201     -48.015 -27.389  -0.877  0.73 16.30           C  
+HETATM    7  CAD NMI A 201     -48.082 -28.610  -0.128  0.73 16.72           C  
+HETATM    8  CAF NMI A 201     -46.934 -29.045   0.511  0.73 16.27           C  
+HETATM    9  CAL NMI A 201     -45.738 -28.332   0.511  0.73 15.73           C  
+HETATM   10  CAK NMI A 201     -44.485 -28.507   1.105  0.73 16.50           C  
+HETATM   11  CAJ NMI A 201     -43.951 -29.578   2.064  0.73 16.84           C  
+HETATM   12  CAI NMI A 201     -43.853 -30.973   1.553  0.73 17.13           C  
+HETATM   13  CAC NMI A 201     -43.640 -31.861   2.746  0.73 16.85           C  
+HETATM   14  OAB NMI A 201     -44.038 -32.992   2.568  0.73 16.59           O  
+HETATM   15  O1  NMI A 201     -43.046 -31.521   3.758  0.73 17.02           O  
+TER      16      NMI A 201 
+ENDMDL
+END   

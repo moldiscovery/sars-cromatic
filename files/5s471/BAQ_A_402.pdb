@@ -1,0 +1,10 @@
+MODEL        1
+HETATM    1  OAA BAQ A 402      -0.871   9.909  -9.413  0.60 23.47           O  
+HETATM    2  CAF BAQ A 402      -0.846   9.383  -8.306  0.60 22.80           C  
+HETATM    3  CAD BAQ A 402      -1.996   9.278  -7.351  0.60 22.59           C  
+HETATM    4  CAB BAQ A 402      -1.503   8.339  -6.281  0.60 22.65           C  
+HETATM    5  CAC BAQ A 402       0.002   8.348  -6.408  0.60 22.47           C  
+HETATM    6  NAE BAQ A 402       0.216   8.806  -7.768  0.60 22.69           N  
+TER       7      BAQ A 402 
+ENDMDL
+END   

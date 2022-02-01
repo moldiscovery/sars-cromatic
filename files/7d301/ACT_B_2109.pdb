@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C   ACT B2109      41.060 -39.520  24.842  1.00 79.24           C  
+HETATM    2  O   ACT B2109      40.666 -40.720  24.832  1.00 93.36           O  
+HETATM    3  OXT ACT B2109      41.063 -38.704  25.811  1.00 82.35           O  
+HETATM    4  CH3 ACT B2109      41.621 -38.991  23.463  1.00 68.88           C  
+TER       5      ACT B2109 
+ENDMDL
+END   

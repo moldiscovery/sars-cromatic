@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO A 316       4.897  20.752  33.315  1.00 28.82           C  
+HETATM    2  O1  EDO A 316       5.926  19.782  33.413  1.00 25.91           O  
+HETATM    3  C2  EDO A 316       5.547  22.077  32.954  1.00 40.92           C  
+HETATM    4  O2  EDO A 316       4.579  23.122  33.093  1.00 44.95           O  
+TER       5      EDO A 316 
+ENDMDL
+END   

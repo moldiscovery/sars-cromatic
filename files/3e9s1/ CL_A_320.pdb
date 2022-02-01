@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 CL    CL A 320     -43.219  20.456   9.497  1.00 46.82          Cl  
+TER       2       CL A 320 
+ENDMDL
+END   

@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO A 602      13.195 -23.334  37.861  1.00 49.99           C  
+HETATM    2  O1  EDO A 602      12.809 -23.844  39.127  1.00 55.85           O  
+HETATM    3  C2  EDO A 602      12.217 -22.266  37.435  1.00 41.17           C  
+HETATM    4  O2  EDO A 602      12.105 -22.402  36.013  1.00 41.59           O  
+TER       5      EDO A 602 
+ENDMDL
+END   

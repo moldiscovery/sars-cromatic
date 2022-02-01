@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1  C1  ATO A1006      70.242  -0.864   9.796  1.00100.04           C  
+TER       2      ATO A1006 
+ENDMDL
+END   

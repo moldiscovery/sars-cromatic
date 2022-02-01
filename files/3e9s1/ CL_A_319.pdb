@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 CL    CL A 319     -22.700  20.073   3.651  1.00 47.98          Cl  
+TER       2       CL A 319 
+ENDMDL
+END   

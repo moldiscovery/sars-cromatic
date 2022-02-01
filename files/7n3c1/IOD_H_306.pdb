@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1  I   IOD H 306      17.553   3.608   4.722  0.92 27.96           I  
+TER       2      IOD H 306 
+ENDMDL
+END   

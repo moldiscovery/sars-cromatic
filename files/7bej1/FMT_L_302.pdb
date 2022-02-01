@@ -1,0 +1,7 @@
+MODEL        1
+HETATM    1  C   FMT L 302      23.562  88.828 -10.657  1.00 61.52           C  
+HETATM    2  O1  FMT L 302      22.628  89.480 -11.124  1.00 66.03           O  
+HETATM    3  O2  FMT L 302      24.560  89.303 -10.114  1.00 45.73           O  
+TER       4      FMT L 302 
+ENDMDL
+END   

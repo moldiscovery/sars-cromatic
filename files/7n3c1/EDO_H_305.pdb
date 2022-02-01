@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO H 305      30.952  15.125   6.611  1.00 42.62           C  
+HETATM    2  O1  EDO H 305      31.693  16.305   6.964  1.00 52.93           O  
+HETATM    3  C2  EDO H 305      31.908  14.096   5.973  1.00 45.63           C  
+HETATM    4  O2  EDO H 305      32.969  14.739   5.236  1.00 46.60           O  
+TER       5      EDO H 305 
+ENDMDL
+END   

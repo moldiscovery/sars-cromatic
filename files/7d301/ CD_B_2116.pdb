@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 CD    CD B2116      29.938 -43.570  -0.621  0.38141.08          Cd  
+TER       2       CD B2116 
+ENDMDL
+END   

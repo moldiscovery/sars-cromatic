@@ -1,0 +1,7 @@
+MODEL        1
+HETATM    1  C   FMT A 512      30.523  12.661  50.779  1.00 80.64           C  
+HETATM    2  O1  FMT A 512      29.672  11.869  51.137  1.00 82.39           O  
+HETATM    3  O2  FMT A 512      30.741  13.025  49.536  1.00 76.28           O  
+TER       4      FMT A 512 
+ENDMDL
+END   

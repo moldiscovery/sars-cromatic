@@ -1,0 +1,15 @@
+MODEL        1
+HETATM    1  S   DMS A1002       7.428 -28.035  20.955  1.00 64.20           S  
+HETATM    2  O   DMS A1002       8.189 -27.222  21.977  1.00 68.93           O  
+HETATM    3  C1  DMS A1002       6.350 -29.111  21.872  1.00 67.02           C  
+HETATM    4  C2  DMS A1002       6.180 -26.974  20.283  1.00 64.89           C  
+TER       5      DMS A1002 
+ENDMDL
+MODEL        2
+HETATM    1  S   DMS A1002      -7.428 -28.035 -20.955  1.00 64.20           S  
+HETATM    2  O   DMS A1002      -8.189 -27.222 -21.977  1.00 68.93           O  
+HETATM    3  C1  DMS A1002      -6.350 -29.111 -21.872  1.00 67.02           C  
+HETATM    4  C2  DMS A1002      -6.180 -26.974 -20.283  1.00 64.89           C  
+TER       5      DMS A1002 
+ENDMDL
+END   

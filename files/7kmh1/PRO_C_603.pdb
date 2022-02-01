@@ -1,0 +1,12 @@
+MODEL        1
+HETATM    1  N   PRO C 603       8.451   5.989  22.239  1.00 41.30           N  
+HETATM    2  CA  PRO C 603       8.001   6.575  23.489  1.00 41.69           C  
+HETATM    3  C   PRO C 603       9.194   7.041  24.341  1.00 46.56           C  
+HETATM    4  O   PRO C 603      10.272   7.302  23.816  1.00 43.81           O  
+HETATM    5  CB  PRO C 603       7.231   5.417  24.138  1.00 38.31           C  
+HETATM    6  CG  PRO C 603       6.657   4.661  22.957  1.00 39.59           C  
+HETATM    7  CD  PRO C 603       7.260   5.325  21.734  1.00 34.58           C  
+HETATM    8  OXT PRO C 603       9.115   7.182  25.563  1.00 54.40           O  
+TER       9      PRO C 603 
+ENDMDL
+END   

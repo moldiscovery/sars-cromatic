@@ -1,0 +1,7 @@
+MODEL        1
+HETATM    1  C   FMT B4403      49.522   7.942  -6.634  1.00 84.90           C  
+HETATM    2  O1  FMT B4403      49.742   7.901  -7.828  1.00 85.60           O  
+HETATM    3  O2  FMT B4403      50.386   7.646  -5.707  1.00 82.86           O  
+TER       4      FMT B4403 
+ENDMDL
+END   

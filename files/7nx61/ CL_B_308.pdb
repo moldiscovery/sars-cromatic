@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 CL    CL B 308      25.130 -36.710 -54.335  1.00 83.57          Cl  
+TER       2       CL B 308 
+ENDMDL
+END   

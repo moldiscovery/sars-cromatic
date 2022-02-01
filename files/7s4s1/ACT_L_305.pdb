@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C   ACT L 305      63.196 -54.926 -67.606  1.00 79.21           C  
+HETATM    2  O   ACT L 305      62.925 -56.158 -67.674  1.00 79.91           O  
+HETATM    3  OXT ACT L 305      63.835 -54.306 -66.710  1.00 79.37           O  
+HETATM    4  CH3 ACT L 305      62.677 -54.037 -68.775  1.00 82.63           C  
+TER       5      ACT L 305 
+ENDMDL
+END   

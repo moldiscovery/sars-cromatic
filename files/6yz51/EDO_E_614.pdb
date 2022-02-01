@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO E 614      65.828  15.596  19.694  1.00 54.54           C  
+HETATM    2  O1  EDO E 614      66.239  15.829  21.027  1.00 41.08           O  
+HETATM    3  C2  EDO E 614      65.053  16.722  19.091  1.00 66.23           C  
+HETATM    4  O2  EDO E 614      64.869  17.871  19.912  1.00 67.36           O  
+TER       5      EDO E 614 
+ENDMDL
+END   

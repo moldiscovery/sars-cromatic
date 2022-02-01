@@ -1,0 +1,7 @@
+MODEL        1
+HETATM    1  C   FMT A7110     101.385   7.484 -10.074  1.00 55.51           C  
+HETATM    2  O1  FMT A7110     101.616   6.924  -9.022  1.00 54.64           O  
+HETATM    3  O2  FMT A7110     102.284   8.013 -10.845  1.00 57.66           O  
+TER       4      FMT A7110 
+ENDMDL
+END   

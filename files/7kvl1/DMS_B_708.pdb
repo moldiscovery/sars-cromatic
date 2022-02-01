@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  S   DMS B 708      12.121   4.969  -5.979  1.00 70.22           S  
+HETATM    2  O   DMS B 708      12.672   6.245  -6.524  1.00 68.69           O  
+HETATM    3  C1  DMS B 708      11.676   3.867  -7.354  1.00 45.45           C  
+HETATM    4  C2  DMS B 708      13.445   3.963  -5.244  1.00 41.52           C  
+TER       5      DMS B 708 
+ENDMDL
+END   

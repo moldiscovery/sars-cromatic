@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 CL    CL A 205      13.977 110.420  22.454  1.00 37.37          Cl  
+TER       2       CL A 205 
+ENDMDL
+END   

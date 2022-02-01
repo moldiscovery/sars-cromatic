@@ -1,0 +1,7 @@
+MODEL        1
+HETATM    1  C   FMT E 804      36.816  51.442   0.633  1.00 74.45           C  
+HETATM    2  O1  FMT E 804      36.466  50.357   1.096  1.00 73.91           O  
+HETATM    3  O2  FMT E 804      36.090  52.433   0.569  1.00 72.40           O  
+TER       4      FMT E 804 
+ENDMDL
+END   

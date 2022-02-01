@@ -1,0 +1,7 @@
+MODEL        1
+HETATM    1  S1  DTZ B 901      24.947  64.004 -24.901  1.00 56.52           S  
+HETATM    2 ZN   DTZ B 901      26.254  62.110 -24.750  1.00 50.10          Zn  
+HETATM    3  S2  DTZ B 901      26.287  61.099 -26.818  1.00 57.32           S  
+TER       4      DTZ B 901 
+ENDMDL
+END   

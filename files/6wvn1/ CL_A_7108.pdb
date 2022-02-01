@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 CL    CL A7108      97.659  14.484  50.307  1.00 92.48          Cl  
+TER       2       CL A7108 
+ENDMDL
+END   

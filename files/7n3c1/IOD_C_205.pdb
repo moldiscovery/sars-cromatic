@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1  I   IOD C 205     -31.679  -7.865  11.596  0.76118.33           I  
+TER       2      IOD C 205 
+ENDMDL
+END   

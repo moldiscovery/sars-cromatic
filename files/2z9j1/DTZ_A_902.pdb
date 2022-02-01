@@ -1,0 +1,7 @@
+MODEL        1
+HETATM    1  S1  DTZ A 902       9.855  35.975  10.293  1.00 59.29           S  
+HETATM    2 ZN   DTZ A 902       8.784  35.247   8.378  1.00 53.52          Zn  
+HETATM    3  S2  DTZ A 902       9.046  32.955   8.315  1.00 61.75           S  
+TER       4      DTZ A 902 
+ENDMDL
+END   

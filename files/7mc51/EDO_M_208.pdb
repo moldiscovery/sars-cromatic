@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO M 208      -5.719   0.709   9.204  1.00 41.99           C  
+HETATM    2  O1  EDO M 208      -5.642   2.011   8.604  1.00 44.25           O  
+HETATM    3  C2  EDO M 208      -6.716   0.804  10.348  1.00 41.30           C  
+HETATM    4  O2  EDO M 208      -7.605  -0.315  10.265  1.00 53.11           O  
+TER       5      EDO M 208 
+ENDMDL
+END   

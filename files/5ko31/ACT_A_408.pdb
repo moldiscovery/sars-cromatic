@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C   ACT A 408      36.843  -4.300  14.768  1.00 71.80           C  
+HETATM    2  O   ACT A 408      36.355  -5.006  13.853  1.00 58.41           O  
+HETATM    3  OXT ACT A 408      36.047  -3.910  15.652  1.00 76.61           O  
+HETATM    4  CH3 ACT A 408      38.298  -3.940  14.809  1.00 53.86           C  
+TER       5      ACT A 408 
+ENDMDL
+END   

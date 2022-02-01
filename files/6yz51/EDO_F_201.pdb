@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO F 201      47.149   8.391  21.016  1.00 47.01           C  
+HETATM    2  O1  EDO F 201      48.260   9.278  21.006  1.00 64.08           O  
+HETATM    3  C2  EDO F 201      46.368   8.429  19.765  1.00 54.85           C  
+HETATM    4  O2  EDO F 201      44.994   8.707  19.800  1.00 53.10           O  
+TER       5      EDO F 201 
+ENDMDL
+END   

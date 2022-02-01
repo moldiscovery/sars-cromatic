@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 BR    BR H 301     -10.597  20.280 -83.143  1.00141.26          Br  
+TER       2       BR H 301 
+ENDMDL
+END   

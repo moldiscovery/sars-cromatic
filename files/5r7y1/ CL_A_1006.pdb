@@ -1,0 +1,9 @@
+MODEL        1
+HETATM    1 CL    CL A1006       5.941  -5.224  20.045  0.55 62.68          Cl  
+TER       2       CL A1006 
+ENDMDL
+MODEL        2
+HETATM    1 CL    CL A1006      -5.941  -5.224 -20.045  0.55 62.68          Cl  
+TER       2       CL A1006 
+ENDMDL
+END   

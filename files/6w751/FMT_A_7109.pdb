@@ -1,0 +1,7 @@
+MODEL        1
+HETATM    1  C   FMT A7109      96.614   5.589  -4.470  1.00 49.83           C  
+HETATM    2  O1  FMT A7109      95.951   5.707  -5.479  1.00 49.65           O  
+HETATM    3  O2  FMT A7109      96.474   6.311  -3.401  1.00 50.22           O  
+TER       4      FMT A7109 
+ENDMDL
+END   

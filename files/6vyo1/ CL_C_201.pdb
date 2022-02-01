@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 CL    CL C 201     -17.746  28.957  29.452  1.00 17.74          Cl  
+TER       2       CL C 201 
+ENDMDL
+END   

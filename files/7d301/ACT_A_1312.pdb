@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C   ACT A1312      35.239 -22.295 -31.538  1.00 68.65           C  
+HETATM    2  O   ACT A1312      35.519 -23.504 -31.802  1.00 73.29           O  
+HETATM    3  OXT ACT A1312      34.101 -21.775 -31.362  1.00 67.06           O  
+HETATM    4  CH3 ACT A1312      36.483 -21.323 -31.427  1.00 51.06           C  
+TER       5      ACT A1312 
+ENDMDL
+END   

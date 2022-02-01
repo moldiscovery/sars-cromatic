@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  S   DMS E 901      -1.228  19.404  20.781  1.00 98.69           S  
+HETATM    2  O   DMS E 901      -2.191  18.940  19.736  1.00 95.94           O  
+HETATM    3  C1  DMS E 901       0.457  19.296  20.122  1.00 95.60           C  
+HETATM    4  C2  DMS E 901      -1.129  18.173  22.111  1.00 98.03           C  
+TER       5      DMS E 901 
+ENDMDL
+END   

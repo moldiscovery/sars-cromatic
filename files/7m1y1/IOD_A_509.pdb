@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1  I   IOD A 509      31.899  -3.257  28.282  0.50 92.21           I  
+TER       2      IOD A 509 
+ENDMDL
+END   

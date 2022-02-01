@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO M 302      -0.705 -54.187  34.186  1.00 34.91           C  
+HETATM    2  O1  EDO M 302      -1.939 -53.461  34.137  1.00 31.30           O  
+HETATM    3  C2  EDO M 302      -0.242 -54.725  32.835  1.00 37.43           C  
+HETATM    4  O2  EDO M 302       0.255 -53.660  32.007  1.00 39.09           O  
+TER       5      EDO M 302 
+ENDMDL
+END   

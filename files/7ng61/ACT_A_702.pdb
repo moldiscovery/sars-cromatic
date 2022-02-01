@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C   ACT A 702      19.609 -16.202 -11.410  1.00 57.04           C  
+HETATM    2  O   ACT A 702      20.477 -15.321 -11.699  1.00 54.82           O  
+HETATM    3  OXT ACT A 702      19.767 -17.454 -11.240  1.00 55.35           O  
+HETATM    4  CH3 ACT A 702      18.132 -15.722 -11.240  1.00 46.34           C  
+TER       5      ACT A 702 
+ENDMDL
+END   

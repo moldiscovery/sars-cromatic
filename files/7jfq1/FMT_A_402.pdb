@@ -1,0 +1,13 @@
+MODEL        1
+HETATM    1  C   FMT A 402     -11.626 -28.070  -9.606  1.00 41.19           C  
+HETATM    2  O1  FMT A 402     -12.833 -27.872  -9.758  1.00 37.48           O  
+HETATM    3  O2  FMT A 402     -10.786 -28.154 -10.510  1.00 34.90           O  
+TER       4      FMT A 402 
+ENDMDL
+MODEL        2
+HETATM    1  C   FMT A 402      11.626 -35.391  -9.606  1.00 41.19           C  
+HETATM    2  O1  FMT A 402      12.833 -35.589  -9.758  1.00 37.48           O  
+HETATM    3  O2  FMT A 402      10.786 -35.307 -10.510  1.00 34.90           O  
+TER       4      FMT A 402 
+ENDMDL
+END   

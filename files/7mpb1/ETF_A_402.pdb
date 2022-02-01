@@ -1,0 +1,10 @@
+MODEL        1
+HETATM    1  C1 AETF A 402       0.308  25.640   8.178  0.62 54.82           C  
+HETATM    2  C2 AETF A 402       1.111  26.044   6.948  0.62 57.81           C  
+HETATM    3  O  AETF A 402       2.382  26.555   7.366  0.62 58.48           O  
+HETATM    4  F1 AETF A 402       0.143  26.694   8.951  0.62 57.33           F  
+HETATM    5  F2 AETF A 402      -0.877  25.182   7.816  0.62 53.96           F  
+HETATM    6  F3 AETF A 402       0.970  24.711   8.844  0.62 54.52           F  
+TER       7      ETF A 402 
+ENDMDL
+END   

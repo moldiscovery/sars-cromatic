@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO L 301      15.493  -0.526   7.223  1.00 32.01           C  
+HETATM    2  O1  EDO L 301      14.499  -0.937   8.170  1.00 23.86           O  
+HETATM    3  C2  EDO L 301      15.051   0.818   6.659  1.00 30.90           C  
+HETATM    4  O2  EDO L 301      13.932   0.536   5.804  1.00 37.64           O  
+TER       5      EDO L 301 
+ENDMDL
+END   

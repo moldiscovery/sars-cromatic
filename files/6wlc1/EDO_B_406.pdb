@@ -1,0 +1,22 @@
+MODEL        1
+HETATM    1  C1  EDO B 406      52.627 -10.282  27.849  1.00 86.67           C  
+HETATM    2  O1  EDO B 406      53.847 -10.282  28.611  1.00 87.64           O  
+HETATM    3  C2  EDO B 406      51.794 -11.525  28.167  1.00 85.98           C  
+HETATM    4  O2  EDO B 406      51.337 -12.184  26.976  1.00 75.59           O  
+TER       5      EDO B 406 
+ENDMDL
+MODEL        2
+HETATM    1  C1  EDO B 406      58.070 -80.015  27.849  1.00 86.67           C  
+HETATM    2  O1  EDO B 406      57.460 -78.959  28.611  1.00 87.64           O  
+HETATM    3  C2  EDO B 406      59.563 -80.115  28.167  1.00 85.98           C  
+HETATM    4  O2  EDO B 406      60.361 -80.181  26.976  1.00 75.59           O  
+TER       5      EDO B 406 
+ENDMDL
+MODEL        3
+HETATM    1  C1  EDO B 406     115.739 -40.435  27.849  1.00 86.67           C  
+HETATM    2  O1  EDO B 406     115.129 -41.492  28.611  1.00 87.64           O  
+HETATM    3  C2  EDO B 406     115.079 -39.093  28.167  1.00 85.98           C  
+HETATM    4  O2  EDO B 406     114.737 -38.368  26.976  1.00 75.59           O  
+TER       5      EDO B 406 
+ENDMDL
+END   

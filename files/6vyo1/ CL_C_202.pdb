@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 CL    CL C 202     -15.012  40.608   0.116  1.00 14.34          Cl  
+TER       2       CL C 202 
+ENDMDL
+END   

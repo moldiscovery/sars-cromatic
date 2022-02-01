@@ -1,0 +1,9 @@
+MODEL        1
+HETATM    1  N   NH2 A 950     -12.976  -2.604  21.515  1.00 41.57           N  
+TER       2      NH2 A 950 
+ENDMDL
+MODEL        2
+HETATM    1  N   NH2 A 950     112.883  -2.604 -21.515  1.00 41.57           N  
+TER       2      NH2 A 950 
+ENDMDL
+END   

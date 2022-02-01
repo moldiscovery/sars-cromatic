@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C   ACT A 303     -68.439  65.353  -2.181  1.00 70.86           C  
+HETATM    2  O   ACT A 303     -67.554  65.052  -3.038  1.00 77.57           O  
+HETATM    3  OXT ACT A 303     -68.489  66.476  -1.621  1.00 62.13           O  
+HETATM    4  CH3 ACT A 303     -69.517  64.279  -1.802  1.00 59.65           C  
+TER       5      ACT A 303 
+ENDMDL
+END   

@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C   ACT B2103      45.985 -36.245   8.283  1.00 73.22           C  
+HETATM    2  O   ACT B2103      45.807 -37.249   7.527  1.00 75.32           O  
+HETATM    3  OXT ACT B2103      45.813 -36.148   9.543  1.00 76.99           O  
+HETATM    4  CH3 ACT B2103      46.485 -34.965   7.548  1.00 76.19           C  
+TER       5      ACT B2103 
+ENDMDL
+END   

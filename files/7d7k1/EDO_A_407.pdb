@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO A 407      61.911 -46.853  -5.446  1.00 61.67           C  
+HETATM    2  O1  EDO A 407      61.412 -45.557  -5.826  1.00 67.77           O  
+HETATM    3  C2  EDO A 407      62.697 -47.515  -6.578  1.00 63.30           C  
+HETATM    4  O2  EDO A 407      61.904 -48.133  -7.638  1.00 62.33           O  
+TER       5      EDO A 407 
+ENDMDL
+END   

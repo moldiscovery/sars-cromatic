@@ -1,0 +1,9 @@
+MODEL        1
+HETATM    1  N   GLY B 405      15.489 -18.963   1.742  0.80 57.32           N  
+HETATM    2  CA  GLY B 405      16.550 -18.757   0.762  0.80 57.55           C  
+HETATM    3  C   GLY B 405      16.764 -17.272   0.531  0.80 57.74           C  
+HETATM    4  O   GLY B 405      15.977 -16.668  -0.227  0.80 59.96           O  
+HETATM    5  OXT GLY B 405      17.705 -16.714   1.124  0.80 57.72           O  
+TER       6      GLY B 405 
+ENDMDL
+END   

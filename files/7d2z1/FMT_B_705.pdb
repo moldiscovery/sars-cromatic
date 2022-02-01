@@ -1,0 +1,7 @@
+MODEL        1
+HETATM    1  C   FMT B 705      38.456 -22.291  18.070  1.00 58.86           C  
+HETATM    2  O1  FMT B 705      37.253 -22.553  17.995  1.00 51.00           O  
+HETATM    3  O2  FMT B 705      39.065 -21.529  17.313  1.00 70.14           O  
+TER       4      FMT B 705 
+ENDMDL
+END   

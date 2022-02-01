@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  S   DMS A 802      11.605  49.686 -15.219  1.00 39.54           S  
+HETATM    2  O   DMS A 802      11.657  49.823 -16.668  1.00 38.96           O  
+HETATM    3  C1  DMS A 802      10.743  48.333 -14.496  1.00 38.66           C  
+HETATM    4  C2  DMS A 802      12.388  50.884 -14.187  1.00 36.69           C  
+TER       5      DMS A 802 
+ENDMDL
+END   

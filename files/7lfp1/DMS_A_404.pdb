@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  S   DMS A 404     -23.972  -3.794   9.354  1.00101.03           S  
+HETATM    2  O   DMS A 404     -25.033  -3.090  10.138  1.00 78.66           O  
+HETATM    3  C1  DMS A 404     -23.171  -5.057  10.380  1.00 64.27           C  
+HETATM    4  C2  DMS A 404     -22.572  -2.676   9.070  1.00 73.89           C  
+TER       5      DMS A 404 
+ENDMDL
+END   

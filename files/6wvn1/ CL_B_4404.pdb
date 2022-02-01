@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 CL    CL B4404      58.674  30.346  18.878  1.00 99.16          Cl  
+TER       2       CL B4404 
+ENDMDL
+END   

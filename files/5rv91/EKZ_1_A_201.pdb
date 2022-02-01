@@ -1,0 +1,13 @@
+HETATM    1  CAA EKZ A 201     -39.472  -6.887   0.986  0.57 36.03           C  
+HETATM    2  CAL EKZ A 201     -38.936  -6.267   2.268  0.57 35.94           C  
+HETATM    3  CAB EKZ A 201     -38.752  -4.777   2.021  0.57 36.28           C  
+HETATM    4  CAC EKZ A 201     -37.589  -6.891   2.608  0.57 36.28           C  
+HETATM    5  CAK EKZ A 201     -39.887  -6.474   3.453  0.57 34.93           C  
+HETATM    6  CAH EKZ A 201     -39.839  -5.603   4.510  0.57 34.71           C  
+HETATM    7  CAJ EKZ A 201     -40.663  -5.772   5.594  0.57 34.26           C  
+HETATM    8  OAE EKZ A 201     -40.597  -4.868   6.641  0.57 34.91           O  
+HETATM    9  CAI EKZ A 201     -41.554  -6.820   5.652  0.57 33.02           C  
+HETATM   10  OAD EKZ A 201     -42.405  -6.971   6.767  0.57 31.72           O  
+HETATM   11  CAF EKZ A 201     -41.603  -7.696   4.588  0.57 32.16           C  
+HETATM   12  CAG EKZ A 201     -40.773  -7.529   3.497  0.57 33.79           C  
+TER      13      EKZ A 201 

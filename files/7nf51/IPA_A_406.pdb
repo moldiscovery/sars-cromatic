@@ -1,0 +1,15 @@
+MODEL        1
+HETATM    1  C1  IPA A 406      -6.551 -16.336  26.746  1.00 30.42           C  
+HETATM    2  C2  IPA A 406      -6.003 -16.183  28.166  1.00 45.44           C  
+HETATM    3  C3  IPA A 406      -6.867 -15.172  28.947  1.00 26.23           C  
+HETATM    4  O2  IPA A 406      -6.043 -17.402  28.879  1.00 40.57           O  
+TER       5      IPA A 406 
+ENDMDL
+MODEL        2
+HETATM    1  C1  IPA A 406      -2.705 -16.336  19.869  1.00 30.42           C  
+HETATM    2  C2  IPA A 406      -3.253 -16.183  18.449  1.00 45.44           C  
+HETATM    3  C3  IPA A 406      -2.389 -15.172  17.668  1.00 26.23           C  
+HETATM    4  O2  IPA A 406      -3.213 -17.402  17.736  1.00 40.57           O  
+TER       5      IPA A 406 
+ENDMDL
+END   

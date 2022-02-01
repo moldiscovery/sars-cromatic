@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 CL    CL A 405      24.975   1.343  20.737  1.00 44.83          Cl  
+TER       2       CL A 405 
+ENDMDL
+END   

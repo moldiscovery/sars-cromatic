@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 CL    CL A1297      22.523  65.216 -11.740  1.00 46.24          Cl  
+TER       2       CL A1297 
+ENDMDL
+END   

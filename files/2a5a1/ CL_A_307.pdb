@@ -1,0 +1,9 @@
+MODEL        1
+HETATM    1 CL    CL A 307      12.229  -0.442  24.070  1.00 73.88          Cl  
+TER       2       CL A 307 
+ENDMDL
+MODEL        2
+HETATM    1 CL    CL A 307     -25.863  -0.442  27.279  1.00 73.88          Cl  
+TER       2       CL A 307 
+ENDMDL
+END   

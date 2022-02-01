@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO A 706       7.483  36.512  -7.628  1.00 45.57           C  
+HETATM    2  O1  EDO A 706       7.324  35.655  -8.776  1.00 44.38           O  
+HETATM    3  C2  EDO A 706       6.550  36.022  -6.524  1.00 45.29           C  
+HETATM    4  O2  EDO A 706       5.271  35.721  -7.093  1.00 38.71           O  
+TER       5      EDO A 706 
+ENDMDL
+END   

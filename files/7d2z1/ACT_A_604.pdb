@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C   ACT A 604      36.381 -15.775  10.746  1.00 74.30           C  
+HETATM    2  O   ACT A 604      36.383 -15.228   9.571  1.00 63.75           O  
+HETATM    3  OXT ACT A 604      35.861 -15.360  11.837  1.00 67.28           O  
+HETATM    4  CH3 ACT A 604      37.117 -17.150  10.844  1.00 58.60           C  
+TER       5      ACT A 604 
+ENDMDL
+END   

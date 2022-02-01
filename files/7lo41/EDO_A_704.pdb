@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO A 704      -2.370  16.575 -47.856  1.00 32.36           C  
+HETATM    2  O1  EDO A 704      -2.639  17.146 -46.566  1.00 46.54           O  
+HETATM    3  C2  EDO A 704      -3.692  16.032 -48.372  1.00 35.58           C  
+HETATM    4  O2  EDO A 704      -3.662  15.974 -49.799  1.00 42.84           O  
+TER       5      EDO A 704 
+ENDMDL
+END   

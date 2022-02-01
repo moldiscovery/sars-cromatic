@@ -1,0 +1,9 @@
+MODEL        1
+HETATM    1  CAA TMO C 401     -33.241  16.845 -43.639  1.00 98.04           C  
+HETATM    2  NAC TMO C 401     -33.989  17.200 -44.838  1.00 96.48           N  
+HETATM    3  CAD TMO C 401     -33.506  16.428 -45.980  1.00 97.44           C  
+HETATM    4  CAB TMO C 401     -35.398  16.891 -44.625  1.00 94.67           C  
+HETATM    5  OAE TMO C 401     -33.807  18.399 -45.068  1.00 95.16           O  
+TER       6      TMO C 401 
+ENDMDL
+END   

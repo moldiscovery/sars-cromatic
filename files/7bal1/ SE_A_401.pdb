@@ -1,0 +1,9 @@
+MODEL        1
+HETATM    1 SE    SE A 401     -13.832 -30.502   1.371  0.80 38.72          Se  
+TER       2       SE A 401 
+ENDMDL
+MODEL        2
+HETATM    1 SE    SE A 401       5.415 -30.502  42.372  0.80 38.72          Se  
+TER       2       SE A 401 
+ENDMDL
+END   

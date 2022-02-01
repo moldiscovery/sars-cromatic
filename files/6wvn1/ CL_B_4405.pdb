@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 CL    CL B4405      72.356   2.323  10.438  1.00100.05          Cl  
+TER       2       CL B4405 
+ENDMDL
+END   

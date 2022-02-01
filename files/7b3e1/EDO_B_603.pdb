@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO B 603       1.831 -20.302  -1.933  1.00 60.65           C  
+HETATM    2  O1  EDO B 603       3.240 -20.145  -1.730  1.00 66.74           O  
+HETATM    3  C2  EDO B 603       1.560 -21.340  -3.018  1.00 65.69           C  
+HETATM    4  O2  EDO B 603       1.563 -22.649  -2.436  1.00 71.12           O  
+TER       5      EDO B 603 
+ENDMDL
+END   

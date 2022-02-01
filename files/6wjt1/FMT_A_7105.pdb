@@ -1,0 +1,7 @@
+MODEL        1
+HETATM    1  C   FMT A7105     105.462  29.906   3.752  1.00 57.69           C  
+HETATM    2  O1  FMT A7105     104.665  29.658   4.633  1.00 51.99           O  
+HETATM    3  O2  FMT A7105     105.299  29.619   2.493  1.00 55.14           O  
+TER       4      FMT A7105 
+ENDMDL
+END   

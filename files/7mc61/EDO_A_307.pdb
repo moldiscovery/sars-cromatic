@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO A 307      12.458  -6.449  16.575  1.00 55.44           C  
+HETATM    2  O1  EDO A 307      13.666  -5.789  16.971  1.00 51.27           O  
+HETATM    3  C2  EDO A 307      12.130  -6.090  15.131  1.00 42.57           C  
+HETATM    4  O2  EDO A 307      11.096  -6.957  14.651  1.00 53.42           O  
+TER       5      EDO A 307 
+ENDMDL
+END   

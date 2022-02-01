@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO C 304      31.143   2.773  40.796  1.00 41.62           C  
+HETATM    2  O1  EDO C 304      30.274   3.170  41.861  1.00 40.61           O  
+HETATM    3  C2  EDO C 304      31.003   1.272  40.625  1.00 42.33           C  
+HETATM    4  O2  EDO C 304      29.605   0.969  40.408  1.00 42.99           O  
+TER       5      EDO C 304 
+ENDMDL
+END   

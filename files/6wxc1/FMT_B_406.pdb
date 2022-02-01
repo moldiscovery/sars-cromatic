@@ -1,0 +1,19 @@
+MODEL        1
+HETATM    1  C   FMT B 406      35.102 -66.082 -31.799  1.00 51.42           C  
+HETATM    2  O1  FMT B 406      36.217 -66.461 -31.417  1.00 43.90           O  
+HETATM    3  O2  FMT B 406      34.899 -65.114 -32.546  1.00 55.33           O  
+TER       4      FMT B 406 
+ENDMDL
+MODEL        2
+HETATM    1  C   FMT B 406     115.109 -67.211 -31.799  1.00 51.42           C  
+HETATM    2  O1  FMT B 406     114.880 -66.056 -31.417  1.00 43.90           O  
+HETATM    3  O2  FMT B 406     114.372 -67.871 -32.546  1.00 55.33           O  
+TER       4      FMT B 406 
+ENDMDL
+MODEL        3
+HETATM    1  C   FMT B 406      76.084   2.642 -31.799  1.00 51.42           C  
+HETATM    2  O1  FMT B 406      75.198   1.866 -31.417  1.00 43.90           O  
+HETATM    3  O2  FMT B 406      77.024   2.334 -32.546  1.00 55.33           O  
+TER       4      FMT B 406 
+ENDMDL
+END   

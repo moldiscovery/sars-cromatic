@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  S   DMS B1303     -46.809  -4.677   7.959  1.00 63.18           S  
+HETATM    2  O   DMS B1303     -45.122  -5.214   8.392  1.00 61.65           O  
+HETATM    3  C1  DMS B1303     -47.928  -6.125   7.939  1.00 61.38           C  
+HETATM    4  C2  DMS B1303     -46.999  -4.071   6.244  1.00 62.38           C  
+TER       5      DMS B1303 
+ENDMDL
+END   

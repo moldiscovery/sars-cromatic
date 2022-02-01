@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C   ACT A 302     -70.426  69.476   4.696  1.00 62.17           C  
+HETATM    2  O   ACT A 302     -71.449  70.158   4.564  1.00 59.26           O  
+HETATM    3  OXT ACT A 302     -70.349  68.527   5.518  1.00 70.52           O  
+HETATM    4  CH3 ACT A 302     -69.191  69.858   3.834  1.00 54.30           C  
+TER       5      ACT A 302 
+ENDMDL
+END   

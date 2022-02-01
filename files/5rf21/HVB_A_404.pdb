@@ -1,0 +1,17 @@
+MODEL        1
+HETATM    1  C1  HVB A 404       8.757  -3.486  23.377  0.86 48.34           C  
+HETATM    2  C2  HVB A 404       8.148  -4.725  24.034  0.86 47.59           C  
+HETATM    3  C3  HVB A 404       9.038  -5.176  25.193  0.86 46.75           C  
+HETATM    4  N4  HVB A 404      10.203  -5.727  25.115  0.86 44.41           N  
+HETATM    5  N5  HVB A 404       8.523  -4.964  26.462  0.86 46.42           N  
+TER       6      HVB A 404 
+ENDMDL
+MODEL        2
+HETATM    1  C1  HVB A 404      -8.757  -3.486 -23.377  0.86 48.34           C  
+HETATM    2  C2  HVB A 404      -8.148  -4.725 -24.034  0.86 47.59           C  
+HETATM    3  C3  HVB A 404      -9.038  -5.176 -25.193  0.86 46.75           C  
+HETATM    4  N4  HVB A 404     -10.203  -5.727 -25.115  0.86 44.41           N  
+HETATM    5  N5  HVB A 404      -8.523  -4.964 -26.462  0.86 46.42           N  
+TER       6      HVB A 404 
+ENDMDL
+END   

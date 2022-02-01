@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  S   DMS A 407       0.160 -14.128  19.207  1.00148.17           S  
+HETATM    2  O   DMS A 407      -0.391 -12.778  19.551  1.00109.40           O  
+HETATM    3  C1  DMS A 407       0.426 -14.383  17.431  1.00112.33           C  
+HETATM    4  C2  DMS A 407       1.832 -14.343  19.860  1.00111.69           C  
+TER       5      DMS A 407 
+ENDMDL
+END   

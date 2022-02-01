@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO E 906      -0.221  49.012   3.774  1.00 67.24           C  
+HETATM    2  O1  EDO E 906      -0.639  50.076   2.907  1.00 60.79           O  
+HETATM    3  C2  EDO E 906       0.695  49.561   4.852  1.00 55.54           C  
+HETATM    4  O2  EDO E 906       0.963  48.570   5.848  1.00 62.34           O  
+TER       5      EDO E 906 
+ENDMDL
+END   

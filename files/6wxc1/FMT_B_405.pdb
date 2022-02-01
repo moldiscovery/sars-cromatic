@@ -1,0 +1,19 @@
+MODEL        1
+HETATM    1  C   FMT B 405      41.446 -66.809 -24.466  1.00 75.48           C  
+HETATM    2  O1  FMT B 405      41.952 -66.898 -23.342  1.00 74.34           O  
+HETATM    3  O2  FMT B 405      42.045 -66.402 -25.469  1.00 73.40           O  
+TER       4      FMT B 405 
+ENDMDL
+MODEL        2
+HETATM    1  C   FMT B 405     112.567 -61.353 -24.466  1.00 75.48           C  
+HETATM    2  O1  FMT B 405     112.390 -60.871 -23.342  1.00 74.34           O  
+HETATM    3  O2  FMT B 405     111.914 -61.038 -25.469  1.00 73.40           O  
+TER       4      FMT B 405 
+ENDMDL
+MODEL        3
+HETATM    1  C   FMT B 405      72.281  -2.489 -24.466  1.00 75.48           C  
+HETATM    2  O1  FMT B 405      71.952  -2.883 -23.342  1.00 74.34           O  
+HETATM    3  O2  FMT B 405      72.335  -3.212 -25.469  1.00 73.40           O  
+TER       4      FMT B 405 
+ENDMDL
+END   

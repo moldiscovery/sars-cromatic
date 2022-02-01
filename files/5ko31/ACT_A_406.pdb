@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C   ACT A 406       7.286  -4.103   0.949  1.00 66.58           C  
+HETATM    2  O   ACT A 406       7.858  -5.218   0.970  1.00 58.08           O  
+HETATM    3  OXT ACT A 406       6.058  -4.107   1.225  1.00 57.23           O  
+HETATM    4  CH3 ACT A 406       8.035  -2.839   0.616  1.00 60.21           C  
+TER       5      ACT A 406 
+ENDMDL
+END   

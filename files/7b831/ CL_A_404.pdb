@@ -1,0 +1,9 @@
+MODEL        1
+HETATM    1 CL    CL A 404       8.118   3.497  -3.595  1.00 46.28          Cl  
+TER       2       CL A 404 
+ENDMDL
+MODEL        2
+HETATM    1 CL    CL A 404      -8.118   3.497   3.595  1.00 46.28          Cl  
+TER       2       CL A 404 
+ENDMDL
+END   

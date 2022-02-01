@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  S   DMS B 402      13.168 -11.018   7.885  0.85 58.39           S  
+HETATM    2  O   DMS B 402      12.104 -10.178   8.367  0.85 57.80           O  
+HETATM    3  C1  DMS B 402      13.782 -11.820   9.345  0.85 58.66           C  
+HETATM    4  C2  DMS B 402      12.414 -12.418   7.129  0.85 58.36           C  
+TER       5      DMS B 402 
+ENDMDL
+END   

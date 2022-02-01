@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1  I   IOD H 308      19.533  15.140   2.199  0.89140.88           I  
+TER       2      IOD H 308 
+ENDMDL
+END   

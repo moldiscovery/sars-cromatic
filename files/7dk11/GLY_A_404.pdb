@@ -1,0 +1,9 @@
+MODEL        1
+HETATM    1  N   GLY A 404     -19.470   3.451  25.590  1.00 47.74           N  
+HETATM    2  CA  GLY A 404     -18.942   4.595  26.320  1.00 47.78           C  
+HETATM    3  C   GLY A 404     -17.445   4.623  26.133  1.00 47.16           C  
+HETATM    4  O   GLY A 404     -16.926   5.630  25.628  1.00 48.29           O  
+HETATM    5  OXT GLY A 404     -16.785   3.641  26.504  1.00 43.44           O  
+TER       6      GLY A 404 
+ENDMDL
+END   

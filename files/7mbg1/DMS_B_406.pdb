@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  S   DMS B 406      -9.993  20.580  22.067  1.00 78.33           S  
+HETATM    2  O   DMS B 406     -10.901  19.665  21.305  1.00 70.12           O  
+HETATM    3  C1  DMS B 406      -8.421  20.544  21.179  1.00 51.17           C  
+HETATM    4  C2  DMS B 406      -9.457  19.739  23.586  1.00 61.68           C  
+TER       5      DMS B 406 
+ENDMDL
+END   

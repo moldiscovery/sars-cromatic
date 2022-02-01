@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 CD    CD A1324      23.736 -19.005  30.928  0.71 39.78          Cd  
+TER       2       CD A1324 
+ENDMDL
+END   

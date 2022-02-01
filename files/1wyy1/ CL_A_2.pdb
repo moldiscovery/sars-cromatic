@@ -1,0 +1,13 @@
+MODEL        1
+HETATM    1 CL    CL A   2     -20.993  12.120 -47.704  0.33 57.73          Cl  
+TER       2       CL A   2 
+ENDMDL
+MODEL        2
+HETATM    1 CL    CL A   2     -20.991  12.118 -47.704  0.33 57.73          Cl  
+TER       2       CL A   2 
+ENDMDL
+MODEL        3
+HETATM    1 CL    CL A   2     -20.990  12.120 -47.704  0.33 57.73          Cl  
+TER       2       CL A   2 
+ENDMDL
+END   

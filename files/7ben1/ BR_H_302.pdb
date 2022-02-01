@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 BR    BR H 302     -23.182  10.087 -70.695  1.00 78.76          Br  
+TER       2       BR H 302 
+ENDMDL
+END   

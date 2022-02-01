@@ -1,0 +1,7 @@
+MODEL        1
+HETATM    1  C   FMT B 715      40.838 -40.093  19.283  1.00 50.00           C  
+HETATM    2  O1  FMT B 715      40.713 -38.973  19.800  1.00 46.87           O  
+HETATM    3  O2  FMT B 715      40.264 -41.164  19.595  1.00 43.93           O  
+TER       4      FMT B 715 
+ENDMDL
+END   

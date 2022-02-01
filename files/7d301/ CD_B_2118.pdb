@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 CD    CD B2118      30.107 -38.064  41.300  0.31 94.28          Cd  
+TER       2       CD B2118 
+ENDMDL
+END   

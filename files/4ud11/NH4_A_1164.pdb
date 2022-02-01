@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1  N   NH4 A1164      28.367 -26.774  66.026  1.00 59.10           N  
+TER       2      NH4 A1164 
+ENDMDL
+END   

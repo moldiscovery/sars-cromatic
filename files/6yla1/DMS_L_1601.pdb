@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  S   DMS L1601       0.245  32.641  39.718  1.00139.47           S  
+HETATM    2  O   DMS L1601       0.288  34.132  39.780  1.00147.47           O  
+HETATM    3  C1  DMS L1601      -1.378  32.014  39.203  1.00137.56           C  
+HETATM    4  C2  DMS L1601       0.374  31.960  41.394  1.00138.78           C  
+TER       5      DMS L1601 
+ENDMDL
+END   

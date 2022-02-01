@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  O   POL R 603     -71.765  30.270  56.249  1.00 40.62           O  
+HETATM    2  C1  POL R 603     -72.333  31.567  56.263  1.00 42.32           C  
+HETATM    3  C2  POL R 603     -71.392  32.546  56.746  1.00 42.57           C  
+HETATM    4  C3  POL R 603     -71.995  33.930  56.811  1.00 42.39           C  
+TER       5      POL R 603 
+ENDMDL
+END   

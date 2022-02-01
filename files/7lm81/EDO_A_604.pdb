@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO A 604       2.870 -38.833  19.292  1.00 37.86           C  
+HETATM    2  O1  EDO A 604       2.131 -40.085  19.240  1.00 40.43           O  
+HETATM    3  C2  EDO A 604       2.331 -37.875  20.361  1.00 32.85           C  
+HETATM    4  O2  EDO A 604       1.813 -38.611  21.475  1.00 28.42           O  
+TER       5      EDO A 604 
+ENDMDL
+END   

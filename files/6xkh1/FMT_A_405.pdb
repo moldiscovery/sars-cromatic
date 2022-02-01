@@ -1,0 +1,13 @@
+MODEL        1
+HETATM    1  C   FMT A 405       6.985  -0.156  18.488  1.00 44.81           C  
+HETATM    2  O1  FMT A 405       6.590  -0.981  17.670  1.00 42.04           O  
+HETATM    3  O2  FMT A 405       8.001   0.518  18.308  1.00 47.16           O  
+TER       4      FMT A 405 
+ENDMDL
+MODEL        2
+HETATM    1  C   FMT A 405      -6.985  -0.156 -18.488  1.00 44.81           C  
+HETATM    2  O1  FMT A 405      -6.590  -0.981 -17.670  1.00 42.04           O  
+HETATM    3  O2  FMT A 405      -8.001   0.518 -18.308  1.00 47.16           O  
+TER       4      FMT A 405 
+ENDMDL
+END   

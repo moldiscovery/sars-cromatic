@@ -1,0 +1,17 @@
+MODEL        1
+HETATM    1  N1  IMD A 505       7.710 -21.771  -1.465  0.59 37.64           N  
+HETATM    2  C2  IMD A 505       6.868 -22.819  -1.313  0.59 39.91           C  
+HETATM    3  N3  IMD A 505       5.616 -22.344  -1.133  0.59 41.05           N  
+HETATM    4  C4  IMD A 505       5.664 -20.996  -1.173  0.59 41.36           C  
+HETATM    5  C5  IMD A 505       6.988 -20.634  -1.381  0.59 38.75           C  
+TER       6      IMD A 505 
+ENDMDL
+MODEL        2
+HETATM    1  N1  IMD A 505      -7.710 -21.771   1.465  0.59 37.64           N  
+HETATM    2  C2  IMD A 505      -6.868 -22.819   1.313  0.59 39.91           C  
+HETATM    3  N3  IMD A 505      -5.616 -22.344   1.133  0.59 41.05           N  
+HETATM    4  C4  IMD A 505      -5.664 -20.996   1.173  0.59 41.36           C  
+HETATM    5  C5  IMD A 505      -6.988 -20.634   1.381  0.59 38.75           C  
+TER       6      IMD A 505 
+ENDMDL
+END   

@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 CL    CL C 306      23.459   0.657  36.307  1.00 36.84          Cl  
+TER       2       CL C 306 
+ENDMDL
+END   

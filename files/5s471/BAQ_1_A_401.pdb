@@ -1,0 +1,7 @@
+HETATM    1  OAA BAQ A 401      -6.932  15.042  -0.558  0.80 22.28           O  
+HETATM    2  CAF BAQ A 401      -5.789  15.021  -0.096  0.80 22.27           C  
+HETATM    3  CAD BAQ A 401      -5.427  14.862   1.344  0.80 22.07           C  
+HETATM    4  CAB BAQ A 401      -3.989  15.336   1.411  0.80 22.17           C  
+HETATM    5  CAC BAQ A 401      -3.464  15.202  -0.003  0.80 22.45           C  
+HETATM    6  NAE BAQ A 401      -4.676  15.136  -0.806  0.80 22.39           N  
+TER       7      BAQ A 401 

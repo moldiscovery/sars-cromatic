@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C   ACT L 304      59.899 -38.252 -62.947  1.00 34.71           C  
+HETATM    2  O   ACT L 304      59.120 -39.065 -63.496  1.00 46.00           O  
+HETATM    3  OXT ACT L 304      60.104 -38.091 -61.736  1.00 32.71           O  
+HETATM    4  CH3 ACT L 304      60.739 -37.373 -63.928  1.00 37.67           C  
+TER       5      ACT L 304 
+ENDMDL
+END   

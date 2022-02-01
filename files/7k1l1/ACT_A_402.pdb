@@ -1,0 +1,22 @@
+MODEL        1
+HETATM    1  C   ACT A 402     -98.865  16.612 -29.741  1.00 78.53           C  
+HETATM    2  O   ACT A 402     -98.952  16.917 -30.983  1.00 68.53           O  
+HETATM    3  OXT ACT A 402     -97.971  17.010 -28.892  1.00 58.37           O  
+HETATM    4  CH3 ACT A 402    -100.027  15.710 -29.146  1.00 67.09           C  
+TER       5      ACT A 402 
+ENDMDL
+MODEL        2
+HETATM    1  C   ACT A 402     -40.370  36.699 -29.741  1.00 78.53           C  
+HETATM    2  O   ACT A 402     -40.591  36.471 -30.983  1.00 68.53           O  
+HETATM    3  OXT ACT A 402     -41.162  37.275 -28.892  1.00 58.37           O  
+HETATM    4  CH3 ACT A 402     -39.008  36.144 -29.146  1.00 67.09           C  
+TER       5      ACT A 402 
+ENDMDL
+MODEL        3
+HETATM    1  C   ACT A 402     -87.013  77.314 -29.741  1.00 78.53           C  
+HETATM    2  O   ACT A 402     -86.705  77.236 -30.983  1.00 68.53           O  
+HETATM    3  OXT ACT A 402     -87.116  76.340 -28.892  1.00 58.37           O  
+HETATM    4  CH3 ACT A 402     -87.213  78.770 -29.146  1.00 67.09           C  
+TER       5      ACT A 402 
+ENDMDL
+END   

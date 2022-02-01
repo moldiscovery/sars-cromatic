@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO E 605      49.363  18.133  26.805  1.00 49.96           C  
+HETATM    2  O1  EDO E 605      49.847  19.207  26.008  1.00 42.21           O  
+HETATM    3  C2  EDO E 605      47.893  18.192  27.052  1.00 53.50           C  
+HETATM    4  O2  EDO E 605      47.519  19.055  28.107  1.00 56.30           O  
+TER       5      EDO E 605 
+ENDMDL
+END   

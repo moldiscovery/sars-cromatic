@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO B 201      -7.606  -9.836  50.378  1.00 56.02           C  
+HETATM    2  O1  EDO B 201      -6.964  -9.355  51.544  1.00 55.31           O  
+HETATM    3  C2  EDO B 201      -6.633 -10.053  49.265  1.00 55.40           C  
+HETATM    4  O2  EDO B 201      -5.633 -11.003  49.582  1.00 54.40           O  
+TER       5      EDO B 201 
+ENDMDL
+END   

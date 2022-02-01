@@ -1,0 +1,7 @@
+MODEL        1
+HETATM    1  C   FMT A 601      31.025   9.346   0.873  1.00 56.00           C  
+HETATM    2  O1  FMT A 601      32.123   9.007   0.406  1.00 44.88           O  
+HETATM    3  O2  FMT A 601      30.201   8.608   1.438  1.00 56.18           O  
+TER       4      FMT A 601 
+ENDMDL
+END   

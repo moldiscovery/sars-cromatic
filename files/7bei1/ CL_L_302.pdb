@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 CL    CL L 302      -7.756 -30.075 -14.414  1.00 68.06          Cl  
+TER       2       CL L 302 
+ENDMDL
+END   

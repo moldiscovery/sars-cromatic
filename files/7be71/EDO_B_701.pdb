@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO B 701      16.333  10.707 -24.794  1.00 61.85           C  
+HETATM    2  O1  EDO B 701      16.359   9.546 -25.639  1.00 61.15           O  
+HETATM    3  C2  EDO B 701      15.227  10.543 -23.754  1.00 63.03           C  
+HETATM    4  O2  EDO B 701      14.054  11.224 -24.213  1.00 67.91           O  
+TER       5      EDO B 701 
+ENDMDL
+END   

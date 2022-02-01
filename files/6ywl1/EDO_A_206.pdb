@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO A 206      22.865  59.168  19.171  1.00 52.87           C  
+HETATM    2  O1  EDO A 206      23.155  58.109  18.276  1.00 51.05           O  
+HETATM    3  C2  EDO A 206      22.189  60.288  18.516  1.00 54.50           C  
+HETATM    4  O2  EDO A 206      21.136  59.860  17.689  1.00 64.45           O  
+TER       5      EDO A 206 
+ENDMDL
+END   

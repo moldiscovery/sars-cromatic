@@ -1,0 +1,27 @@
+A) PROTEIN TREATMENT;CAVITY DETECTION; MIFS AND THEIR SIMILARITY COMPUTATION (BioGPS software)
+
+#protein pretreatment
+fixpdb --keep-cofactor --remove-all-H --remove-caps --remove-artifacts --remove-junk --remove-unx --remove-unk --remove-all-H2O --remove-hetatm-after-not-M-WT=-1 --remove-BIRDS --remove-small-peptides=20 --unkn-residue-to-grid-types --ccd-db-file=ccd_dictionary.db --split-chains input.pdb1 --pdb-out=output.pdb
+#cavity detection
+flapsite -i output.pdb -op <output_path> -ld duplicates_output.txt -nx
+#Molecular Interaction Fields (MIFs) computation
+flapdbp -cpu 1 -d <MIFs_collection_path> -r 0.75 -gr 2 -i pocket_inchi -gl Pocket_001_output.pdb output.pdb
+#Molecular Interaction Fields (MIFs) similarity
+flapvs -pc -sdef -d  <MIFs_collection_path> -noxp -w res -tdb  <MIFs_collection_path> <inchi_list>
+
+#_______________________________________________________________________________________________________________________________________
+
+B) SEQUENCE SIMILARITY COMPARISON
+
+clustalo -i fasta.txt --full --distmat-out=clustalo_distances.txt
+
+C) RMSD MATRIX COMPUTATION
+
+TMalign <pdb1> <pdb2> -fast
+
+D) POCKET RESIDUES CLUSTERING (BioGPS software)
+
+flapsite -pc -db <path to database> -e -l <pockets list 1> <pockets list 2>  -o <path to pc_matrix.txt>
+flapsite -km -db <path to database> -i <path to pc_matrix.txt> -e -o <path to pc_clusters.txt>
+
+

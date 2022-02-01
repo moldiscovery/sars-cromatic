@@ -1,0 +1,22 @@
+MODEL        1
+HETATM    1  C   ACY B 407     -72.733   7.518  31.232  1.00 63.74           C  
+HETATM    2  O   ACY B 407     -71.688   7.766  30.647  1.00 64.31           O  
+HETATM    3  OXT ACY B 407     -73.912   7.698  30.752  1.00 64.45           O  
+HETATM    4  CH3 ACY B 407     -72.744   6.945  32.656  1.00 57.87           C  
+TER       5      ACY B 407 
+ENDMDL
+MODEL        2
+HETATM    1  C   ACY B 407     -45.414  63.623  31.232  1.00 63.74           C  
+HETATM    2  O   ACY B 407     -46.151  64.404  30.647  1.00 64.31           O  
+HETATM    3  OXT ACY B 407     -44.980  62.512  30.752  1.00 64.45           O  
+HETATM    4  CH3 ACY B 407     -44.912  63.900  32.656  1.00 57.87           C  
+TER       5      ACY B 407 
+ENDMDL
+MODEL        3
+HETATM    1  C   ACY B 407    -107.662  59.230  31.232  1.00 63.74           C  
+HETATM    2  O   ACY B 407    -107.970  58.200  30.647  1.00 64.31           O  
+HETATM    3  OXT ACY B 407    -106.916  60.160  30.752  1.00 64.45           O  
+HETATM    4  CH3 ACY B 407    -108.153  59.526  32.656  1.00 57.87           C  
+TER       5      ACY B 407 
+ENDMDL
+END   

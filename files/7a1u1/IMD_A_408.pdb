@@ -1,0 +1,17 @@
+MODEL        1
+HETATM    1  N1  IMD A 408       8.282 -21.380  -1.890  1.00 62.03           N  
+HETATM    2  C2  IMD A 408       7.993 -22.474  -1.149  1.00 61.97           C  
+HETATM    3  N3  IMD A 408       6.649 -22.572  -1.027  1.00 62.03           N  
+HETATM    4  C4  IMD A 408       6.090 -21.538  -1.691  1.00 61.97           C  
+HETATM    5  C5  IMD A 408       7.121 -20.785  -2.236  1.00 61.98           C  
+TER       6      IMD A 408 
+ENDMDL
+MODEL        2
+HETATM    1  N1  IMD A 408      -8.282 -21.380   1.890  1.00 62.03           N  
+HETATM    2  C2  IMD A 408      -7.993 -22.474   1.149  1.00 61.97           C  
+HETATM    3  N3  IMD A 408      -6.649 -22.572   1.027  1.00 62.03           N  
+HETATM    4  C4  IMD A 408      -6.090 -21.538   1.691  1.00 61.97           C  
+HETATM    5  C5  IMD A 408      -7.121 -20.785   2.236  1.00 61.98           C  
+TER       6      IMD A 408 
+ENDMDL
+END   

@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 CL    CL A 310       2.294  -5.784   0.012  1.00 80.23          Cl  
+TER       2       CL A 310 
+ENDMDL
+END   

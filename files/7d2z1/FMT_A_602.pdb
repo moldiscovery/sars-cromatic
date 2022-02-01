@@ -1,0 +1,7 @@
+MODEL        1
+HETATM    1  C   FMT A 602      38.795   3.563  -4.258  1.00 64.32           C  
+HETATM    2  O1  FMT A 602      37.833   3.450  -5.025  1.00 59.61           O  
+HETATM    3  O2  FMT A 602      39.982   3.441  -4.573  1.00 61.98           O  
+TER       4      FMT A 602 
+ENDMDL
+END   

@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO A 202     -15.477   5.680   3.584  1.00 22.18           C  
+HETATM    2  O1  EDO A 202     -15.421   4.295   3.778  1.00 23.36           O  
+HETATM    3  C2  EDO A 202     -14.244   6.308   3.933  1.00 19.95           C  
+HETATM    4  O2  EDO A 202     -14.062   6.254   5.296  1.00 17.69           O  
+TER       5      EDO A 202 
+ENDMDL
+END   

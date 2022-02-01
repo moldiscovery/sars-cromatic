@@ -1,0 +1,13 @@
+MODEL        1
+HETATM    1  C   FMT A 408       6.059   0.873  17.791  1.00 35.54           C  
+HETATM    2  O1  FMT A 408       5.133   1.166  18.532  1.00 38.68           O  
+HETATM    3  O2  FMT A 408       7.043   0.090  18.076  1.00 35.04           O  
+TER       4      FMT A 408 
+ENDMDL
+MODEL        2
+HETATM    1  C   FMT A 408      -6.059   0.873 -17.791  1.00 35.54           C  
+HETATM    2  O1  FMT A 408      -5.133   1.166 -18.532  1.00 38.68           O  
+HETATM    3  O2  FMT A 408      -7.043   0.090 -18.076  1.00 35.04           O  
+TER       4      FMT A 408 
+ENDMDL
+END   

@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1  I   IOD L 304      51.714  20.915  43.479  0.50 87.72           I  
+TER       2      IOD L 304 
+ENDMDL
+END   

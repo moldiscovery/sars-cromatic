@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  S   DMS A 803      36.185 -32.686  -7.387  1.00 42.81           S  
+HETATM    2  O   DMS A 803      35.403 -33.742  -8.029  1.00 41.61           O  
+HETATM    3  C1  DMS A 803      37.760 -33.064  -6.712  1.00 43.08           C  
+HETATM    4  C2  DMS A 803      35.543 -31.055  -7.272  1.00 41.59           C  
+TER       5      DMS A 803 
+ENDMDL
+END   

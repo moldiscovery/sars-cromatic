@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 CL    CL A 406       5.360 -15.504 -31.279  1.00 25.53          Cl  
+TER       2       CL A 406 
+ENDMDL
+END   

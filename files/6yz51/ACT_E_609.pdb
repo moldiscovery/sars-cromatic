@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C   ACT E 609      51.127  22.628  24.439  1.00 65.07           C  
+HETATM    2  O   ACT E 609      52.057  23.442  24.633  1.00 41.65           O  
+HETATM    3  OXT ACT E 609      50.192  22.441  25.242  1.00 68.22           O  
+HETATM    4  CH3 ACT E 609      51.118  21.822  23.132  1.00 52.13           C  
+TER       5      ACT E 609 
+ENDMDL
+END   

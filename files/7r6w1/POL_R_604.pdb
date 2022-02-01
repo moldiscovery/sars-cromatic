@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  O   POL R 604     -73.765  29.269  59.218  1.00 45.09           O  
+HETATM    2  C1  POL R 604     -73.546  30.587  59.696  1.00 50.04           C  
+HETATM    3  C2  POL R 604     -74.732  31.390  59.558  1.00 51.72           C  
+HETATM    4  C3  POL R 604     -74.603  32.743  60.219  1.00 52.76           C  
+TER       5      POL R 604 
+ENDMDL
+END   

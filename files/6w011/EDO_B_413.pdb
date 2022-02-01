@@ -1,0 +1,22 @@
+MODEL        1
+HETATM    1  C1  EDO B 413     -41.470  66.830 -23.514  1.00 67.63           C  
+HETATM    2  O1  EDO B 413     -40.912  68.128 -23.299  1.00 78.51           O  
+HETATM    3  C2  EDO B 413     -41.077  66.431 -24.927  1.00 62.15           C  
+HETATM    4  O2  EDO B 413     -42.214  66.541 -25.790  1.00 58.83           O  
+TER       5      EDO B 413 
+ENDMDL
+MODEL        2
+HETATM    1  C1  EDO B 413    -112.533  61.254 -23.514  1.00 67.63           C  
+HETATM    2  O1  EDO B 413    -113.937  61.088 -23.299  1.00 78.51           O  
+HETATM    3  C2  EDO B 413    -112.384  61.793 -24.927  1.00 62.15           C  
+HETATM    4  O2  EDO B 413    -111.911  60.754 -25.790  1.00 58.83           O  
+TER       5      EDO B 413 
+ENDMDL
+MODEL        3
+HETATM    1  C1  EDO B 413     -72.173   2.499 -23.514  1.00 67.63           C  
+HETATM    2  O1  EDO B 413     -71.327   1.367 -23.299  1.00 78.51           O  
+HETATM    3  C2  EDO B 413     -72.715   2.359 -24.927  1.00 62.15           C  
+HETATM    4  O2  EDO B 413     -72.051   3.288 -25.790  1.00 58.83           O  
+TER       5      EDO B 413 
+ENDMDL
+END   

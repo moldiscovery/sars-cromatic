@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C   ACT F 203      46.382   5.080   9.415  1.00 76.28           C  
+HETATM    2  O   ACT F 203      45.532   5.379   8.557  1.00 75.99           O  
+HETATM    3  OXT ACT F 203      46.391   3.997  10.024  1.00 88.98           O  
+HETATM    4  CH3 ACT F 203      47.467   6.107   9.755  1.00 72.32           C  
+TER       5      ACT F 203 
+ENDMDL
+END   

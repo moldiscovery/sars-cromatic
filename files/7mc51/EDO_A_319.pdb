@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C1  EDO A 319      34.147  -2.428   0.388  1.00 45.55           C  
+HETATM    2  O1  EDO A 319      34.842  -1.551   1.283  1.00 42.92           O  
+HETATM    3  C2  EDO A 319      34.251  -3.856   0.916  1.00 38.31           C  
+HETATM    4  O2  EDO A 319      33.477  -4.019   2.126  1.00 29.70           O  
+TER       5      EDO A 319 
+ENDMDL
+END   

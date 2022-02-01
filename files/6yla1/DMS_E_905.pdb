@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  S   DMS E 905     -14.210  24.298  12.358  1.00131.91           S  
+HETATM    2  O   DMS E 905     -14.851  24.177  13.702  1.00129.82           O  
+HETATM    3  C1  DMS E 905     -14.528  25.957  11.696  1.00130.26           C  
+HETATM    4  C2  DMS E 905     -15.131  23.286  11.167  1.00132.35           C  
+TER       5      DMS E 905 
+ENDMDL
+END   

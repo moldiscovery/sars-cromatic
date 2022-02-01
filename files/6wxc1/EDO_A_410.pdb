@@ -1,0 +1,22 @@
+MODEL        1
+HETATM    1  C1  EDO A 410      54.491 -84.372  34.966  1.00 59.20           C  
+HETATM    2  O1  EDO A 410      55.249 -85.122  36.022  1.00 56.50           O  
+HETATM    3  C2  EDO A 410      53.857 -83.230  35.653  1.00 58.21           C  
+HETATM    4  O2  EDO A 410      54.725 -83.476  36.810  1.00 56.59           O  
+TER       5      EDO A 410 
+ENDMDL
+MODEL        2
+HETATM    1  C1  EDO A 410     121.255 -41.275  34.966  1.00 59.20           C  
+HETATM    2  O1  EDO A 410     121.524 -40.243  36.022  1.00 56.50           O  
+HETATM    3  C2  EDO A 410     120.582 -42.395  35.653  1.00 58.21           C  
+HETATM    4  O2  EDO A 410     120.361 -41.520  36.810  1.00 56.59           O  
+TER       5      EDO A 410 
+ENDMDL
+MODEL        3
+HETATM    1  C1  EDO A 410      50.549  -5.004  34.966  1.00 59.20           C  
+HETATM    2  O1  EDO A 410      49.521  -5.287  36.022  1.00 56.50           O  
+HETATM    3  C2  EDO A 410      51.856  -5.026  35.653  1.00 58.21           C  
+HETATM    4  O2  EDO A 410      51.208  -5.655  36.810  1.00 56.59           O  
+TER       5      EDO A 410 
+ENDMDL
+END   

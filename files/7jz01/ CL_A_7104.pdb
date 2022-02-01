@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 CL    CL A7104      80.568  39.638  12.233  1.00 85.92          Cl  
+TER       2       CL A7104 
+ENDMDL
+END   

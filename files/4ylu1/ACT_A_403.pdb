@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C   ACT A 403      15.443 -26.665  28.300  1.00 60.03           C  
+HETATM    2  O   ACT A 403      16.566 -26.401  28.791  1.00 63.52           O  
+HETATM    3  OXT ACT A 403      14.472 -26.423  29.048  1.00 42.68           O  
+HETATM    4  CH3 ACT A 403      15.289 -27.226  26.912  1.00 43.57           C  
+TER       5      ACT A 403 
+ENDMDL
+END   

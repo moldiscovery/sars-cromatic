@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  S   DMS A 601       6.919   3.887 -11.149  1.00 78.05           S  
+HETATM    2  O   DMS A 601       7.301   4.614 -12.411  1.00 87.99           O  
+HETATM    3  C1  DMS A 601       5.154   3.971 -11.046  1.00 69.41           C  
+HETATM    4  C2  DMS A 601       7.093   2.149 -11.482  1.00 69.42           C  
+TER       5      DMS A 601 
+ENDMDL
+END   

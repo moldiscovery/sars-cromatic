@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1 BR    BR A 318      -6.456  30.395  -8.037  1.00 54.39          Br  
+TER       2       BR A 318 
+ENDMDL
+END   

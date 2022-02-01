@@ -1,0 +1,8 @@
+MODEL        1
+HETATM    1  C   ACT F 202      24.703   1.998  25.912  1.00 69.75           C  
+HETATM    2  O   ACT F 202      25.781   1.530  25.518  1.00 66.69           O  
+HETATM    3  OXT ACT F 202      23.820   1.324  26.479  1.00 81.00           O  
+HETATM    4  CH3 ACT F 202      24.453   3.490  25.688  1.00 63.94           C  
+TER       5      ACT F 202 
+ENDMDL
+END   

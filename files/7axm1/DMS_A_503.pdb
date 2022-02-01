@@ -1,0 +1,15 @@
+MODEL        1
+HETATM    1  S   DMS A 503       6.941 -28.140  21.393  1.00 22.58           S  
+HETATM    2  O   DMS A 503       7.737 -27.263  22.275  1.00 23.04           O  
+HETATM    3  C1  DMS A 503       5.660 -28.904  22.416  1.00 21.82           C  
+HETATM    4  C2  DMS A 503       5.877 -27.215  20.263  1.00 23.95           C  
+TER       5      DMS A 503 
+ENDMDL
+MODEL        2
+HETATM    1  S   DMS A 503      -6.941 -28.140 -21.393  1.00 22.58           S  
+HETATM    2  O   DMS A 503      -7.737 -27.263 -22.275  1.00 23.04           O  
+HETATM    3  C1  DMS A 503      -5.660 -28.904 -22.416  1.00 21.82           C  
+HETATM    4  C2  DMS A 503      -5.877 -27.215 -20.263  1.00 23.95           C  
+TER       5      DMS A 503 
+ENDMDL
+END   

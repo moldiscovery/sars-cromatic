@@ -1,0 +1,5 @@
+MODEL        1
+HETATM    1  I   IOD H 309      47.351  19.821  24.379  0.49 39.90           I  
+TER       2      IOD H 309 
+ENDMDL
+END   
