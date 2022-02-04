@@ -1,4 +1,6 @@
-## Sars-CROMATIC (Cross-relationship Map of Cavities from Coronaviruses) Repository Description ##
+## Sars-CROMATIC (Cross-relationship Map of Cavities from Coronaviruses) Repository ##
+
+A freely available cavities collection named CROMATIC was built to collect the binding sites on SARS-CoV-2, SARS-CoV and MERS-CoV targets, providing all 3D protein structures, cavities, ligands and interactors.  A similarity map reveals, on the one hand, cavities that are conserved among the three Coronaviruses, and, on the other hand, unexpected similarities among cavities that can represent a starting point for multi-target therapy strategies. A comprehensive and systematical annotation of cavities helps in navigating and exploring the 3D data making the cavities collection a useful tool for drug investigation.
 
 1. **ANNOTATION.csv** 
   - This file contains, for each cavity in the full collection, all annotations:
