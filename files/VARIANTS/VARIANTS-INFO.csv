@@ -1,0 +1,13 @@
+Variant 	PDB ID	Variant Name	Mutations	Reference
+Wild Type	6LZG	WT		https://doi.org/10.1016/j.cell.2020.03.045
+D614G open 2-RBD-up	7BNO	D614G	D614G	https://doi.org/10.1073/pnas.2022586118
+Mink Cluster 5 3-RBD-down	7LWL	Mink-RBD-down	Y453F	https://doi.org/10.1126/science.abi6226
+Mink Cluster 5 1-RBD up	7LWM	Mink-RBD-up	Y453F	https://doi.org/10.1126/science.abi6226
+B.1.1.7/alpha 3-RBD down	7LWS	Alpha-RBD-down	N501Y,D614G, P681H	https://doi.org/10.1126/science.abi6226
+B.1.1.7/alpha 1-RBD-up	7LWV	Alpha_RBD-up	N501Y,D614G, P681H	https://doi.org/10.1126/science.abi6226
+B.1.351/beta	7LYN	Beta	K417N, E484K, N501Y, D614G, A701V	https://doi.org/10.1126/science.abi6226
+N501Y mutant Ab/ACE2-bound	7MJH	N501Y	N501Y	https://doi.org/10.1371/journal.pbio.3001237
+B.1.429/epsilon + S2M11,S2L20	7N8H	Epsilon	L452R, D614G	https://doi.org/10.1126/science.abi7994
+P.1/gamma + ACE2	7NXC	Gamma	K417T, E484K, N501Y, D614G, H655Y	https://doi.org/10.1016/j.cell.2021.03.055
+omicron	7WBP	Omicron	A67V, Δ69-70, T95I, G142D, Δ143-145, N211I, Δ212, ins215EPE, G339D, S371L, S373P, S375F, K417N, N440K, G446S, S477N, T478K, E484A, Q493R, G496S, Q498R, N501Y, Y505H, T547K, D614G, H655Y, N679K, P681H, N764K, D796Y, N856K, Q954H, N969K, L981F	https://doi.org/10.1016/j.cell.2022.01.001
+delta	7WBQ	Delta	L452R, T478K, D614G, P681R	https://doi.org/10.1016/j.cell.2022.01.001

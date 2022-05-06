@@ -1,6 +1,6 @@
 ## Sars-CROMATIC (Cross-relationship Map of Cavities from Coronaviruses) Repository ##
 
-A freely available cavities collection named CROMATIC was built to collect the binding sites on SARS-CoV-2, SARS-CoV and MERS-CoV targets, providing all 3D protein structures, cavities, ligands and interactors.  A similarity map reveals, on the one hand, cavities that are conserved among the three Coronaviruses, and, on the other hand, unexpected similarities among cavities that can represent a starting point for multi-target therapy strategies. A comprehensive and systematical annotation of cavities helps in navigating and exploring the 3D data making the cavities collection a useful tool for drug investigation.
+A freely available cavities collection named CROMATIC was built to collect the binding sites on SARS-CoV-2, SARS-CoV and MERS-CoV targets, providing all 3D protein structures, cavities, ligands and interactors. A similarity map reveals, on the one hand, cavities that are conserved among the three Coronaviruses, and, on the other hand, unexpected similarities among cavities that can represent a starting point for multi-target therapy strategies. A comprehensive and systematical annotation of cavities helps in navigating and exploring the 3D data making the cavities collection a useful tool for drug investigation.
 
 1. **ANNOTATION.csv** 
   - This file contains, for each cavity in the full collection, all annotations:
@@ -23,25 +23,26 @@ A freely available cavities collection named CROMATIC was built to collect the b
      - int.organism : if cavity is in a protein-protein interaction region, the organism of the interactor is reported
 
 2. **CROMATIC-full_matrix.tsv & CROMATIC-similar_pairs.csv**
- - These two files contain the similarity values among all the cavities in the non-redundant collection. 
-   - CROMATIC-full_matrix.tsv: it contains square matrix resulting from 'all against all' comparison
-   - CROMATIC-similar_pairs.csv: it reports only similar cavity pairs (score >= 0.8)
+  - These two files contain the similarity values among all the cavities in the non-redundant collection.
+     - CROMATIC-full_matrix.tsv: it contains square matrix resulting from 'all against all' comparison
+     - CROMATIC-similar_pairs.csv: it reports only similar cavity pairs (score >= 0.8)
 
 3. **files**
- - This directory contains .pdb files of proteins, cavities and ligands. For example: /6lu71/ contains:
-    - 6lu71_1_A.pdb: protein file, model 1       
-    - 6lu71_2_A.pdb: protein file, model 2  
-    - 6lu71.pdb: protein file, dimer
-    - 6lu7.pdb1: orginal biological unit
-    - birds_1_C.pdb: bird ligand on model 1 
-    - birds_2_C.pdb: bird ligand on model 1 
-    - birds_C.pdb: bird ligand (multi model)
-    - duplicates_6lu71_1_A.txt: pairs of replicates cavities on the biological unit
-    - Pocket_*_6lu71_1_A.pdb: Cavity shapes
-    - PocRes_*_6lu71_1_A.pdb: Cavity residues
-    - redundant: directory containing one of the duplicates cavity (not considered in the followinhg steps)
+  - This directory contains .pdb files of proteins, cavities and ligands. For example: /6lu71/ contains:
+     - 6lu71_1_A.pdb: protein file, model 1
+     - 6lu71_2_A.pdb: protein file, model 2
+     - 6lu71.pdb: protein file, dimer
+     - 6lu7.pdb1: orginal biological unit
+     - birds_1_C.pdb: bird ligand on model 1
+     - birds_2_C.pdb: bird ligand on model 1
+     - birds_C.pdb: bird ligand (multi model)
+     - duplicates_6lu71_1_A.txt: pairs of replicates cavities on the biological unit
+     - Pocket_*_6lu71_1_A.pdb: Cavity shapes
+     - PocRes_*_6lu71_1_A.pdb: Cavity residues
+     - redundant: directory containing one of the duplicates cavity (not considered in the followinhg steps)
+  - This directory contains SARS-CoV-2 VARIANTS data
 
 4. **IMPLEMENTATION.txt**
-- It contains command lines used for implementing the cavities collection and the cross-relationship map.The BioGPS software, containing flap* executables is available from https://www.moldiscovery.com/ and trial licenses are available to both commercial and academic users.
+  - It contains command lines used for implementing the cavities collection and the cross-relationship map.The BioGPS software, containing flap* executables is available from https://www.moldiscovery.com/ and trial licenses are available to both commercial and academic users.
 
 5. **README.md**, This file
