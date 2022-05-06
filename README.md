@@ -39,7 +39,7 @@ A freely available cavities collection named CROMATIC was built to collect the b
      - duplicates_6lu71_1_A.txt: pairs of replicates cavities on the biological unit
      - Pocket_*_6lu71_1_A.pdb: Cavity shapes
      - PocRes_*_6lu71_1_A.pdb: Cavity residues
-     - redundant: directory containing one of the duplicates cavity (not considered in the followinhg steps)
+     - redundant: directory containing one of the duplicates cavity (not considered in the following steps)
   - This directory contains SARS-CoV-2 VARIANTS data
 
 4. **IMPLEMENTATION.txt**
